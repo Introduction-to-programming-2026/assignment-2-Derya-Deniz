@@ -7,8 +7,6 @@ Write a function `string_length` that counts characters until `\0`.
 - Use a loop (`while` or `for`)
 - Return the length as an `int`
 
-## Run
+## Compile
 ```bash
 clang -std=c11 -Wall -Wextra -Werror length.c -o length
-./length
-```
